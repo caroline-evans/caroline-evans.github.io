@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third-year physics PhD student at North Carolina State University working under Dr. Carla Fröhlich. I currently work in theoretical nuclear astrophysics, exploring nucleosynthesis in core-collapse suprenovae. Additionally, I serve as the President of the Graduate Physics Student Association (GPSA) for the 2022-2023 school year and as a member of the physics department's diversity, equity, and inclusivity (DEI) committee.
+
+I graduated from Davidson College in May 2020 with a bachelor's in physics and double majored in Hispanic Studies. Previously, I've worked on the [coronal loop heating problem in solar physics](https://iopscience.iop.org/article/10.3847/1538-4357/abd176) during an REU at NASA Marshall Space Flight Center and the University of Alabama in Huntsville. During my senior year, I was elected the student representative from North and South Carolina (Associate Zone Councilor, Zone 5) with the national organization Society of Physics Students and served on the governance committee.
+
+During undergrad, I played trumpet in the Pep Band (go cats!), taught Spanish to second graders at the local elementary school, and worked as a Senior Admissions Fellow when not studying abroad in Spain, England, and Chile. These days, I work with [Catalyst at the Science House](https://sciencehouse.ncsu.edu/studentprograms/catalyst/) and love exploring the triangle and traveling whenever given the opportunity.
+
 
 A data-driven personal website
 ======
